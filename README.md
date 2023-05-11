@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif)]
+![MasterHead](https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif)
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">I am a civil engineer and in the future a software engineer passionate about technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">

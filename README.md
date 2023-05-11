@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*CWFkh5z8oa6dZfn5_gkKKQ.jpeg)]
 
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">I am a civil engineer and in the future a software engineer passionate about technology</h3>
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **gabriel.g.correia2@gmail.com**
 
-- ⚡ Fun fact [Software Civil Engineer](Software Civil Engineer)
+- ⚡ Fun fact Software Civil Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

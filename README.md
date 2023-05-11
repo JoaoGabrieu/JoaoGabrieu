@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">I am a civil engineer and in the future a software engineer passionate about technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabrieu&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabrieu" /> </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.gifer.com/3odR.mp4)">
-
 - 🔭 I’m currently working on **Object-oriented implementation**
 
 - 🌱 I’m currently learning **Information securityv**

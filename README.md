@@ -29,8 +29,8 @@
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabrieu&show_icons=true&locale=en" alt="joaogabrieu"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joaogabrieu&" alt="joaogabrieu"/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabrieu&show_icons=true&locale=en" alt="joaogabrieu" width=400/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joaogabrieu&" alt="joaogabrieu" width=400/>
 </div>
   
   

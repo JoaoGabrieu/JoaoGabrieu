@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">I am a civil engineer and in the future a software engineer passionate about technology</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/2DYS.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabrieu&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabrieu" /> </p>
 
